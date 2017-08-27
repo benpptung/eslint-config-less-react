@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-less",
+  "name": "eslint-config-less-react",
   "version": "1.0.0",
-  "description": "holding less is more spirit in js coding",
+  "description": "holding less is more spirit in js coding - add react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
