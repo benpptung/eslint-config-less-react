@@ -50,6 +50,7 @@ module.exports = {
       "allowBind": false
     }],
     "react/jsx-no-target-blank":[1],
-    "react/jsx-tag-spacing":[1]
+    "react/jsx-tag-spacing":[1],
+    "react/prop-types": [0]
   }
 };
