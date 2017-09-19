@@ -20,7 +20,7 @@ module.exports = {
     "react/jsx-key": [0],
 
     // experimental rules
-    "react/jsx-boolean-value": [ 1, "never"],
+    "react/jsx-boolean-value": [ 1, "never", { "always": ["value", "val"]}],
     "react/jsx-no-duplicate-props": [2],
     "react/jsx-no-undef": [2],
     "react/no-unescaped-entities": [1],
