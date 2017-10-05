@@ -42,7 +42,6 @@ module.exports = {
       "nonEmpty": "after-props",
       "selfClosing": "after-props"
     }],
-    "react/jsx-closing-tag-location": [1],
     "react/jsx-first-prop-new-line": [1, "never"],
     "react/jsx-no-bind": [1, {
       "ignoreRefs": true,
